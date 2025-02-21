@@ -25,6 +25,7 @@ O código está organizado da seguinte forma:
 Para executar este projeto, você precisa ter instalado em sua máquina:
 - [Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Git](https://git-scm.com/) (opcional, caso queira clonar o repositório diretamente)
+- Uma IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou [Eclipse](https://www.eclipse.org/)
 
 ## 🚀 Como Executar o Projeto
 ### Clonar o Repositório
