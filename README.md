@@ -31,7 +31,7 @@ Para executar este projeto, você precisa ter instalado em sua máquina:
 ### Clonar o Repositório
 Se desejar clonar o repositório, utilize o seguinte comando no terminal:
 ```bash
- git clone https://github.com/seu-usuario/nome-do-repositorio.git
+ git clone https://github.com/RanieleFeitosa/Calculadora
 ```
 ### Compilar e Executar
 1. Acesse o diretório do projeto:
