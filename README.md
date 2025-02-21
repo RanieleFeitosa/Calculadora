@@ -52,3 +52,5 @@ Se desejar clonar o repositório, utilize o seguinte comando no terminal:
 4. O resultado da operação será exibido no terminal.
 5. Você será perguntado se deseja realizar outro cálculo. Digite "s" para continuar ou "n" para sair.
 6. Se tentar dividir por zero, uma mensagem de erro será exibida, e você poderá inserir novos valores.
+   
+    ![Image](https://github.com/user-attachments/assets/40b6b296-6ab8-4de3-ae49-31377b1d5ba4)
