@@ -54,3 +54,7 @@ Se desejar clonar o repositório, utilize o seguinte comando no terminal:
 6. Se tentar dividir por zero, uma mensagem de erro será exibida, e você poderá inserir novos valores.
    
     ![Image](https://github.com/user-attachments/assets/40b6b296-6ab8-4de3-ae49-31377b1d5ba4)
+
+   ### Em caso de divisão por zero:
+
+   ![Image](https://github.com/user-attachments/assets/f747b1f5-7ea3-4781-b031-78b707b63801)
