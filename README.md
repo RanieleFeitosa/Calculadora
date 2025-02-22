@@ -30,24 +30,36 @@ Para executar este projeto, você precisa ter instalado em sua máquina:
 
 
 ## 🚀 Como Executar o Projeto
-### Clonar o Repositório
+### 🔹 No Git Bash
+
 1. Clone o repositório: 
+
 ```bash
  git clone https://github.com/RanieleFeitosa/Calculadora.git
 ```
-### Compilar e Executar
+
 2. Acesse o diretório do projeto:
    ```bash
    cd calculadora
    ```
 3. Compile o projeto:
    ```bash
-   javac Programa.java
+   javac src/calculadora/*.java src/exception/*.java
    ```
 4. Execute a aplicação:
    ```bash
-   java Programa
+   java -cp src calculadora.Programa
    ```
+
+🔹 Caso prefira rodar o projeto em uma IDE como **IntelliJ IDEA** ou **Eclipse**:  
+
+1. **Importe o projeto** na sua IDE preferida.  
+2. **Certifique-se de que o JDK 17 está configurado corretamente.**  
+
+3. **Execute a classe `Programa.java` diretamente na IDE.**  
+
+
+
 ## 🎯 Como Usar a Calculadora
 1. Após iniciar o programa, você será solicitado a inserir um número.
 2. Escolha uma operação matemática (+, -, *, /).
