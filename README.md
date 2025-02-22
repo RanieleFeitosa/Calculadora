@@ -25,24 +25,26 @@ O código está organizado da seguinte forma:
 Para executar este projeto, você precisa ter instalado em sua máquina:
 - [Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Git](https://git-scm.com/) (opcional, caso queira clonar o repositório diretamente)
-- Uma IDE como [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou [Eclipse](https://www.eclipse.org/)
+- Um terminal de sua escolha: **Prompt de Comando (cmd), PowerShell ou Git Bash**
+- Uma IDE (opcional) como [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou [Eclipse](https://www.eclipse.org/)
+
 
 ## 🚀 Como Executar o Projeto
 ### Clonar o Repositório
-Se desejar clonar o repositório, utilize o seguinte comando no terminal:
+1. Clone o repositório: 
 ```bash
- git clone https://github.com/RanieleFeitosa/Calculadora
+ git clone https://github.com/RanieleFeitosa/Calculadora.git
 ```
 ### Compilar e Executar
-1. Acesse o diretório do projeto:
+2. Acesse o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd calculadora
    ```
-2. Compile o projeto:
+3. Compile o projeto:
    ```bash
    javac Programa.java
    ```
-3. Execute a aplicação:
+4. Execute a aplicação:
    ```bash
    java Programa
    ```
