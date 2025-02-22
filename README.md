@@ -34,9 +34,9 @@ Para executar este projeto, você precisa ter instalado em sua máquina:
 
 1. Clone o repositório: 
 
-```bash
- git clone https://github.com/RanieleFeitosa/Calculadora.git
-```
+    ```bash
+     git clone https://github.com/RanieleFeitosa/Calculadora.git
+    ```
 
 2. Acesse o diretório do projeto:
    ```bash
