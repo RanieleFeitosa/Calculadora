@@ -1,4 +1,5 @@
 # Calculadora Simples em Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 
 
 Este projeto é uma calculadora simples desenvolvida em Java que permite realizar as quatro operações básicas: adição, subtração, multiplicação e divisão. O programa foi estruturado seguindo boas práticas de programação orientada a objetos, com a intenção de demonstrar meus conhecimentos básicos sobre a linguagem.
